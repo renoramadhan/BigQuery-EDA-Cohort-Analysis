@@ -277,7 +277,6 @@ Below is the table result
 ### 7. Create monthly retention cohorts (the groups, or cohorts, can be defined based upon the date that a user completely purchased a product) and then how many of them (%) coming back for the following months in 2022. After analyzing the retention cohort, is there any interesting insight that we can get?
 
 ```
-  #QUESTION 7
   WITH
   cohort_items AS (
   SELECT
