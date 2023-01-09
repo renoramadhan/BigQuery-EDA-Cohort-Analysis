@@ -226,7 +226,6 @@ Below is the table result
 ### 6. Find monthly growth of inventory in percentage breakdown by product categories, ordered by time descendingly. After analyzing the monthly growth, is there any interesting insight that we can get? (Jan 2019 until Apr 2022)
 
 ```
-  #QUESTION 6
 WITH
   register_inventory AS (
   SELECT
